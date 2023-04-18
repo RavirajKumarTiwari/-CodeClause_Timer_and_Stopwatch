@@ -1,7 +1,7 @@
 # **Timer and Stopwatch**
 
 This is a simple Timer and Stopwatch web application that allows you to track time for various activities or tasks. The application is built using HTML, CSS, and JavaScript and provides a user-friendly interface to manage the timer and stopwatch functionalities.
-The Timer and Stopwatch application is hosted on GitHub Pages and can be accessed at [Timer and Stopwatch](https://ravirajkumartiwari.github.io/CodeClause_Timer_and_Stopwatch/).
+The Timer and Stopwatch application is hosted on GitHub Pages and can be accessed at [Timer and Stopwatch](https://ravirajkumartiwari.github.io/CodeClause_Timer_and_Stopwatch/)
 
 ## **Features**
 
