@@ -13,7 +13,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: #6994c5; */
     /* background-image: linear-gradient(315deg, #6994c5 0%, #5e5c5c 74%); */
     background: linear-gradient(90deg, rgba(19, 19, 19, 1) 0%, rgba(57, 105, 227, 1) 100%);
 }
